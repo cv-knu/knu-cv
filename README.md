@@ -5,6 +5,6 @@
 
   # cv-knu's Website
 
-  Visit **[cv-knu.github.io/knu-cv](https://cv-knu.github.io/knu-cv)** 🚀
+  Visit **[cv-knu.github.io](https://cv-knu.github.io)** 🚀
 
   _Built with [Lab Website Template](https://greene-lab.gitbook.io/lab-website-template-docs)_
