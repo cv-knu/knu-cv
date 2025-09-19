@@ -1,1 +1,1 @@
-Sitemap: https://cv-knu.github.io/knu-cv/sitemap.xml
+Sitemap: https://cv-knu.github.io/sitemap.xml
